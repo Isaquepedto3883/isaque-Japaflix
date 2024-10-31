@@ -1,0 +1,59 @@
+body {
+    color: rosybrown;
+    background:purple;
+    margin: 0PX;
+    font-family: "Kablammo", system-ui;
+}
+
+header {
+    border-bottom: solid 2px rgba(80, 9, 9, 0.521);
+    margin: 20px;
+    font-size: 32px;
+    color: rgb(206, 31, 98);
+}
+
+section {
+    background-color: rgb(160, 76, 160);
+    padding-bottom: 80px;
+    padding-top: 80px; 
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}
+
+H1 {
+    font-size: 30px;
+}
+
+section {
+    display: flex;
+    overflow-X: auto;
+    gap : 15px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+img {
+    opacity: 0.5;
+    height: 120px;
+}
+
+img:hover {
+    opacity: 1.0;
+    border: 2px solid green 
+}
+
+
+section h2 {
+    color: rgb(0, 0, 0);
+}
+
+section  {
+    color: rgb(255, 255, 255);
+}
